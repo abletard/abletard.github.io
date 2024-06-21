@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://abletard.github.io/sitemap
+Sitemap: https://abletard.github.io/app/sitemap
+Sitemap: https://abletard.github.io/assets/sitemap
+Sitemap: https://abletard.github.io/css/sitemap
+Sitemap: https://abletard.github.io/includes/sitemap
+Sitemap: https://abletard.github.io/item/sitemap
+Sitemap: https://abletard.github.io/src/sitemap
